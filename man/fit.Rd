@@ -13,8 +13,6 @@ fit(transcript_quantifier, lambda = 0, threads = 1)
 \item{transcript_quantifier}{A \link{transcript_quantifier-class} object}
 
 \item{lambda}{the weight of the lasso penalty}
-
-\item{threads}{number of threads to use}
 }
 \description{
 Estimates trancript abundances for a given

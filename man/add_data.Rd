@@ -30,8 +30,6 @@ add_data(
 
 \item{summary_operation}{the summary opperation to apply per bin (e.g.
 sum, mean, median, etc.) Defaults to "sum"}
-
-\item{threads}{number of threads to use}
 }
 \value{
 A \link{transcript_quantifier-class} object with count data added.
